@@ -6,7 +6,7 @@
    * In particular, I am interested in developmental biology 
 
 2. I am taking STATS 220 because knowing how to handle data in R can be useful for biology
-   * I've taken [BIOSCI 220](https://courseoutline.auckland.ac.nz/dco/course/BIOSCI/220/1213) before, but I think I left feeling more confused than confident about statistics
+   * I've taken [BIOSCI 220](https://courseoutline.auckland.ac.nz/dco/course/BIOSCI/220/1213) before, but I think I left feeling more confused than confident about statistics and coding
   
 3. I am interested in learning about how do more things in R
 
