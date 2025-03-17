@@ -8,7 +8,7 @@
 2. I am taking STATS 220 because knowing how to handle data in R can be useful for biology
    * I've taken [BIOSCI 220](https://courseoutline.auckland.ac.nz/dco/course/BIOSCI/220/1213) before, but I think I left feeling more confused than confident about statistics and coding
   
-3. I am interested in learning about how do more things in R
+3. I am interested in learning about how to do more things in R
 
 *A meme that captures how I currently feel about my university studies is* ![](https://c.tenor.com/udpq3Lq3KIUAAAAd/tenor.gif)
 
