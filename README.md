@@ -3,7 +3,7 @@
 
 **A little about me:**
 1. I am undertaking a degree in biology
-   * In particular, I am interested in developmental biology 
+   * In particular, I am interested in [developmental biology](https://veteriankey.com/gastrulation/)
 
 2. I am taking STATS 220 because knowing how to handle data in R can be useful for biology
    * I've taken [BIOSCI 220](https://courseoutline.auckland.ac.nz/dco/course/BIOSCI/220/1213) before, but I think I left feeling more confused than confident about statistics and coding
